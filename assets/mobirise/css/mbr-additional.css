@@ -1259,8 +1259,6 @@ body {
   color: #fe525b;
 }
 .cid-r0GCZORgyq {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-r0GCZORgyq .container-fluid {
@@ -1268,6 +1266,7 @@ body {
 }
 .cid-r0GCZORgyq .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r0GCZORgyq .container-fluid {
