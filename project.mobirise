@@ -54,7 +54,7 @@
         "main": true,
         "title": "Storygram",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>Storygram</title>\n    <meta property=\"og:url\" content=\"http://storygram.co.kr/\">\n    <meta property=\"og:title\" content=\"스토리그램\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/UQXVR8y.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램마케팅을 위한 자동화 솔루션\">\n    <meta name=\"description\" content=\"인스타그램마케팅을 위한 자동화 솔루션\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n</head>",
+        "header_custom": "<head>\n    <title>Storygram</title>\n    <meta property=\"og:url\" content=\"http://storygram.co.kr/\">\n    <meta property=\"og:title\" content=\"스토리그램\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/UQXVR8y.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램마케팅을 위한 자동화 솔루션\">\n    <meta name=\"description\" content=\"인스타그램마케팅을 위한 자동화 솔루션\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n<meta name=\"robots\" content=\"index,follow\">\n<meta name=\"naver-site-verification\" content=\"973784f3315d171ac35ee666f97de3431d49459c\"/>\n<meta name=\"google-site-verification\" content=\"rZL-RFrpDNVD_p2y99wrjxRVZoINPRa233VfYarI4_g\" />\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
