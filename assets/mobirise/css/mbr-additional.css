@@ -1880,6 +1880,7 @@ body {
 }
 .cid-r0H7t4QUCY .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-r0H7t4QUCY .card-title {
   text-align: left;
@@ -1908,6 +1909,10 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-r0H7t4QUCY .card-title,
+.cid-r0H7t4QUCY .card-img {
+  text-align: center;
 }
 .cid-r0H775h7Pc {
   padding-top: 60px;
